@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #FEEC8E!important;
+    }
+  p {color: #2B9BB0;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    }
+body {
+  background-color: #E7F2F8;
+}
+.container-fluid {
+  margin-top:100px;
+}
+
+.svg-scroll {
+  position: absolute;
+  bottom: 30px;
+  left: : 50%;
+  transform: translateX(-50%);
+}
+.grid-container{
+
+}
+.item1{}
+.item1{}
+.item1{}
